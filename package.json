@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-monorepo-boilerplate",
+  "version": "0.0.1",
+  "description": "nuxt monorepo with typescript, composition api, storybook",
+  "main": "index.js",
+  "author": "Tobias Lobitz",
+  "license": "MIT",
+  "workspaces": ["packages/*"],
+  "private": true
+}
